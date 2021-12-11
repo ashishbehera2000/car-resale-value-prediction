@@ -1,5 +1,5 @@
 # car-resale-value-prediction
-For Project Demonstration video click on the link given :- https://drive.google.com/file/d/1V55b-n66doxjsE3gQKflFYpax0FLs87G/view?usp=sharing
+
 
 OVERVIEW:
 
